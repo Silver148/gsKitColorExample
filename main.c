@@ -2,7 +2,7 @@
 #include <kernel.h>
 #include <debug.h>
 #include <gsKit.h>
-#include <dmakit.h>
+#include <dmaKit.h>
 #include <unistd.h>
 
 int main(int argc, char *argv[]) {
